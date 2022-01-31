@@ -1,0 +1,6 @@
+.panel-heading {
+all: unset;
+}
+.panel-heading{
+	background-color: red;
+}
